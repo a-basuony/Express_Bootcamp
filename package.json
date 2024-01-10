@@ -1,0 +1,15 @@
+{
+  "name": "calc-new",
+  "version": "1.0.0",
+  "description": "this is calculator server ",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed basuony",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
